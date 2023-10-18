@@ -11,6 +11,6 @@ This article presents an iterative data-driven algorithm for solving dynamic mul
 ### Overview figure
 ![Overview](https://github.com/majid-mazouchi/majid-mazouchi.github.io/blob/main/assets/img/MultiObProj.png)
 
-### Algorithm 1 Detecting Attacks on Sensors
+### Algorithm 1 SOS-BASED MULTIOBJECTIVE RL 
 ![algorithm](https://github.com/majid-mazouchi/majid-mazouchi.github.io/blob/main/assets/img/Alg1asMo.png)
 
